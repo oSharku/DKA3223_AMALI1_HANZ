@@ -1,6 +1,6 @@
 # Zulfan Hanzalah (Hanz) — Profil & Projek
 
-## Mengenai Saya
+## Profil
 - Nama: Zulfan Hanzalah (Hanz)
 - Pelajar: Diploma Teknologi Pengkomputeran, Kolej Vokasional Sepang
 - GitHub: [@oSharku](https://github.com/oSharku/DKA3223_AMALI1_HANZ)
